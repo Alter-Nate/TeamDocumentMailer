@@ -1,0 +1,5 @@
+[General]
+documents = C:\Document1.xlsx, C:\Document2.txt
+address = email@ddress.com
+subject = This is the subject of the email.
+body = This is the body of the email.
